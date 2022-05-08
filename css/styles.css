@@ -404,6 +404,7 @@ p {
 
 
 .footer .link{
+    height: 21px;
     letter-spacing: 0.03em;
     text-decoration:none;
     font-style:normal;
@@ -424,6 +425,9 @@ p {
 .footer .logo {
     display: inline-block;
     margin-bottom: 20px;
+}
+.address-link {
+    margin: 0;
 }
 .address .link{
     margin-bottom: 9px;
